@@ -3,7 +3,7 @@ Uma das coisas que as vezes acaba sendo complicado pros alunos é, consultar as 
 
 ##  Os alunos irá ter na palma da mão, todas a informações dele no ambiente escolar, além de ter o beneficio de poder se comunicar e fazer justificativas.
 
-## Consulta de notas, pendencias,  frequencia escolar, apresentar atestados medicos , justificar atraso na chegada, e até dialogar xom os diretores ou vice-diretores .
+## Consulta de notas, pendencias,  frequencia escolar, apresentar atestados medicos , justificar atraso na chegada, e até dialoar com os diretore e vice-diretores
 
 ## NO aplicativo irá ter uma aba pra dar suporte e tirar duvidas do aluno, seja de como fazer login ou como utiliza-lo.
 
