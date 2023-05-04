@@ -5,6 +5,5 @@ Uma das coisas que as vezes acaba sendo complicado pros alunos é, consultar as 
 
 ## Consulta de notas, pendencias,  frequencia escolar, apresentar atestados medicos , justificar atraso na chegada, e até dialoar com os diretore e vice-diretores
 
-## NO aplicativo irá ter uma aba pra dar suporte e tirar duvidas do aluno, seja de como fazer login ou como utiliza-lo.
-
+## No aplicativo irá ter uma aba pra dar suporte e tirar duvidas do aluno, seja de como fazer login ou como utiliza-lo.
 Nataly,Igor,Yanne,Ronilson e Rafaela.
